@@ -251,7 +251,7 @@ function Signup() {
                 <MenuItem name="No" value="No" >No</MenuItem>
                 
               </Select>
-              <FormHelperText sx={{color:"#287ba4",fontSize:"1.0rem"}}>Are you speech impaired?</FormHelperText>
+              <FormHelperText sx={{color:"#287ba4",fontSize:"1.0rem"}}>Are you looking to manage your contacts?</FormHelperText>
             </FormControl>
 
             <Button  className="btn" onClick={submit}  type="submit" variant="contained" sx={{borderRadius:"30px",marginTop:"5px", marginTop:"4vh"}}>
